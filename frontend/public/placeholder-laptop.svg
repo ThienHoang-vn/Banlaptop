@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" fill="#ECF4FF"/>
+  <path d="M120 200V110H280V200H120Z" fill="#C7D6EA"/>
+  <path d="M100 200H300L304 220H96L100 200Z" fill="#A9BFDD"/>
+  <path d="M170 140H230V170H190L170 140Z" fill="#7C93B5"/>
+  <rect y="228" width="400" height="3" fill="#B4C5FF"/>
+  <text x="200" y="255" text-anchor="middle" font-family="Space Grotesk, sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#434655">NEXLAP <tspan fill="#004AC6">PRO</tspan></text>
+  <text x="200" y="272" text-anchor="middle" font-family="Hanken Grotesk, sans-serif" font-size="10" fill="#737686">Hình ảnh sản phẩm sắp được cập nhật</text>
+</svg>
