@@ -28,5 +28,8 @@ Thumbs.db
 .vscode/
 .idea/
 
+# UI mockups / design references
+UI/
+
 # Misc
 *.png
